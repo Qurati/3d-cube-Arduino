@@ -1,5 +1,4 @@
-// Пример GyverOLED. Смотри документацию на http://alexgyver.ru/gyveroled/
-// классический пример с 3D кубом
+
 #define RES 8
 #define DC 7
 #define CS 6
